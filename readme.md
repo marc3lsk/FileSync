@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #### FileSync
+=======
+# FileSync
+>>>>>>> branch 'master' of https://github.com/marc3lsk/FileSync.git
 
 Utility will synchronize files between specified source and destination directories. Utility will save html report and send mail report.
 

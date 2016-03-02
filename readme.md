@@ -1,8 +1,8 @@
-##### FileSync
+#### FileSync
 
 Utility will synchronize files between specified source and destination directories. Utility will save html report and send mail report.
 
-## Usage
+#### Usage
 filesync.exe "source1" "destination1" ... "sourceN" "destinationN"
 
 ## Config
